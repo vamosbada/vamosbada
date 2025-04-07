@@ -7,7 +7,7 @@
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
     <li>저는 머신러닝과 딥러닝을 좋아하며, 세상의 다양한 문제들을 해결하는 것을 즐깁니다.</li>
     <li>Fluent in three languages: Korean 🇰🇷, English 🇺🇸, and Spanish 🇪🇸🇲🇽.</li>
-    <li>"Alguien dijo que cuando hablas español, te ves más feliz." 😊</li>
+    <li>"Alguien me dijo que cuando hablas español, te ves más feliz." 😊</li>
   </div> 
 </div>
 
