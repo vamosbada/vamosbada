@@ -35,7 +35,7 @@
 
 <div style="text-align: left;"> 
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
-  <div style="text-align: left;"> 
+  <div style="display: flex; gap: 10px; align-items: flex-start;">
     <img src="https://github-readme-stats.vercel.app/api?username=vamosbada&custom_title=vamosbada's%20Github%20Stat&bg_color=180,000000,&title_color=000000&text_color=000000" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamosbada&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" />
   </div> 
