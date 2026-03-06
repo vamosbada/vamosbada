@@ -22,7 +22,7 @@
 
 | Project | Description |
 |---------|-------------|
-| [**project-puente**](https://github.com/vamosbada/project-puente) | Spanish-English code-switching sentiment analysis · KSC 2025 Award 🏆 |
+| [**project-puente**](https://github.com/vamosbada/project-puente) | Research paper on Spanish-English code-switching sentiment analysis · KSC 2025 Award 🏆 |
 | [**Zerothon**](https://github.com/vamosbada/TIL/tree/main/Projects/Zerothon-2025) | Campus hackathon · 2nd Place / Excellence Award (Team Lead) 🥈 |
 
 ## 📫 Contact
