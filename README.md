@@ -24,7 +24,7 @@
 | Project | Description |
 |---------|-------------|
 | [**grimsup**](https://github.com/vamosbada/grimsup) | Production system for an art academy, live since Aug 2026 — built and operated solo. The code is private (it handles real users' photos); this repo is the design, operations, and incident record · [grimsup.com](https://grimsup.com) 🎨 |
-| [**project-puente**](https://github.com/vamosbada/project-puente) | Research paper on Spanish-English code-switching sentiment analysis · KSC 2025 Award 🏆 |
+| [**project&#8209;puente**](https://github.com/vamosbada/project-puente) | Research paper on Spanish-English code-switching sentiment analysis · KSC 2025 Award 🏆 |
 | [**patron**](https://github.com/vamosbada/patron) | Chart pattern similarity search using ResNet18 + Triplet Loss + FAISS · 50k historical patterns 📈 |
 | [**Zerothon**](https://github.com/vamosbada/TIL/tree/main/Projects/Zerothon-2025) | Campus hackathon · 2nd Place / Excellence Award (Team Lead) 🥈 |
 
