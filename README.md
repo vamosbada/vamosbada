@@ -23,9 +23,9 @@
 
 | Project | When | Description |
 |---------|------|-------------|
-| [**grimsup**](https://github.com/vamosbada/grimsup) | 2026.03 – | Art academy platform I built and run alone — design, operations, and incident write-ups, the code itself stays private · [grimsup.com](https://grimsup.com) 🎨 |
-| [**project&#8209;puente**](https://github.com/vamosbada/project-puente) | 2025.05 – 12 | Spanish-English code-switching sentiment analysis — fixing 17% of a benchmark's labels beat every model change we tried, +10.55 pp final · KSC 2025 Honorable Mention 🏆 |
-| [**patron**](https://github.com/vamosbada/patron) | 2025.07 – 12 | Chart pattern similarity search — ResNet18 + Triplet Loss + FAISS over ~50k patterns, served via FastAPI · open-sourced under MIT 📈 |
+| [**grimsup**](https://github.com/vamosbada/grimsup) | 2026.03&nbsp;– | Art academy platform I built and run alone — design, operations, and incident write-ups, the code itself stays private · [grimsup.com](https://grimsup.com) 🎨 |
+| [**project&#8209;puente**](https://github.com/vamosbada/project-puente) | 2025.05&nbsp;–&nbsp;12 | Spanish-English code-switching sentiment analysis — fixing 17% of a benchmark's labels beat every model change we tried, +10.55 pp final · KSC 2025 Honorable Mention 🏆 |
+| [**patron**](https://github.com/vamosbada/patron) | 2025.07&nbsp;–&nbsp;12 | Chart pattern similarity search — ResNet18 + Triplet Loss + FAISS over ~50k patterns, served via FastAPI · open-sourced under MIT 📈 |
 | [**Zerothon**](https://github.com/vamosbada/TIL/tree/main/Projects/Zerothon-2025) | 2025.03 | AI-assisted team dashboard for a campus hackathon — led a team of five, built in four days · 2nd Place / Excellence Award 🥈 |
 
 ## 📫 Contact
