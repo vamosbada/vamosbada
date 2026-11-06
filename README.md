@@ -7,7 +7,6 @@
 **안녕하세요 🇰🇷, Hello 🇺🇸, Hola 🇲🇽 — 셋 다 저예요.**
 *Thinking in Korean, coding in English, living in Spanish.*
 
-- AI 시스템을 프로덕션에서 안정적으로, 빠르게, 싸게 굴리는 데 관심이 있습니다
 - Everyone's digging for AI gold; I'd rather keep the mine from caving in. ⛏️
 - Looking for a bigger arena — I want to see where my ceiling really is.
 - "Alguien me dijo que cuando hablas español, te ves más feliz." 😊
